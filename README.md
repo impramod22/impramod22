@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pramod  (@impramod22)
+- 👋 Hi, I’m @pramod Dingankar
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently looking a job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
- ---- Contact me on mail- impramod22@gmail.com
+ ---- Contact me on mail- pramodingankar18@gmail.com
 
 <!---
 impramod22/impramod22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
