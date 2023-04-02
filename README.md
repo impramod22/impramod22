@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @pramod Dingankar
+- 👋 Hi, I’m @Pramod Dingankar
 - 👀 I’m interested in Web development.
+- Working as a Web Developer.
 - 🌱 I’m currently looking a job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
