@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development.
 -    Working as a Web Developer.
 - 🌱 I’m currently looking a job.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking to collaborate on projects involving HTML, CSS, JavaScript, WordPress, and PHP. If you have an exciting idea, let's work together!
 - 📫 How to reach me 
  ---- Contact me on mail- pramodingankar18@gmail.com
 
